@@ -15,7 +15,7 @@ Neste repositório você encontrará o source-code de um frontend na pasta (`/sr
 
 ### Estrutura de Diretórios
 
-- `app\`: contem o core do projeto
+- `app/`: contem o core do projeto
 -   `components/`: components da aplicação.
     -   `dedault-login-layout/`: layout base da página de login que servirá como base para as demais.
     -   `primary-input/`: layout dos inputs da aplicação
