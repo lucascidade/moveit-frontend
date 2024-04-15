@@ -2,7 +2,7 @@
 
 ## 📚 Sobre o Projeto
 
-Neste repositório você encontrará o source-code de um frontend na pasta (`/login-page`) desenvolvido em colaboração de @kipper.dev no YouTube.
+Neste repositório você encontrará o source-code de um frontend na pasta (`/src`) desenvolvido em colaboração de @kipper.dev no YouTube.
 
 
 ### Tecnologias
@@ -15,8 +15,8 @@ Neste repositório você encontrará o source-code de um frontend na pasta (`/lo
 
 ### Estrutura de Diretórios
 
-
--   `components/`: components da aplicação.
+- `app/`: contem o core do projeto
+    -  `components/`: components da aplicação.
     -   `dedault-login-layout/`: layout base da página de login que servirá como base para as demais.
     -   `primary-input/`: layout dos inputs da aplicação
 -   `pages/`: Hospeda as paginas da aplicação
