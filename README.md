@@ -2,7 +2,7 @@
 
 ## 📚 Sobre o Projeto
 
-Neste repositório você encontrará o source-code de um frontend na pasta (`/src`) desenvolvido em colaboração de @kipper.dev no YouTube.
+Neste repositório você encontrará o source-code de um frontend de login-page na pasta (`/src`) desenvolvido em colaboração de @kipper.dev no YouTube.
 
 
 ### Tecnologias
